@@ -1,0 +1,8 @@
+{
+	"marquee.widgets.npm-stats.packageNames": ["next-landing-vpn"],
+	"workbench.colorCustomizations": {
+		"[2077]": {
+			"sideBar.background": "#051639"
+		}
+	}
+}
